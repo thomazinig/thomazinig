@@ -1,5 +1,3 @@
-<!-- Banner animado -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
 # 👋 Olá, eu sou o Guilherme Thomazini  
 
@@ -54,3 +52,4 @@ Sistema de reservas construído com **NestJS**, **Prisma**, autenticação JWT e
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/guilherme-thomazini-341791180/)  
 [![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:guilherme_thomazini245@hotmail.com)  
+
