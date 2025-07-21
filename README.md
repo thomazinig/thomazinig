@@ -25,12 +25,14 @@ Estou em constante evolução, estudando:
 ## 📊 Minhas estatísticas  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=thomazinig&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thomazinig&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thomazinig&theme=tokyonight" alt="Resumo de Contribuições" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomazinig&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
+
+---
 
 
 ## 🚀 Projetos em Destaque  
