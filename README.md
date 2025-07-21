@@ -24,17 +24,15 @@ Estou em constante evolução, estudando:
 
 ## 📊 Minhas estatísticas  
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=thomazinig&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomazinig&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-    </td>
-  </tr>
-</table>
+## 📊 Minhas estatísticas  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thomazinig&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomazinig&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+</p>
 
 ---
 
