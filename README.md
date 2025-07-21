@@ -25,7 +25,7 @@ Estou em constante evolução, estudando:
 ## 📊 Minhas estatísticas  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=thomazinig&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thomazinig&theme=darkhub" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
