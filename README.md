@@ -1,3 +1,6 @@
+<!-- Banner animado -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
 # 👋 Olá, eu sou o Guilherme Thomazini  
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
@@ -21,6 +24,21 @@ Estou em constante evolução, estudando:
 
 ---
 
+## 📊 Minhas estatísticas  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=thomazinig&theme=tokyonight&hide_border=true)  
+![Contribuições](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thomazinig&theme=tokyonight)  
+
+---
+
+## 🚀 Projetos em Destaque  
+
+📌 **[Nest Booking](https://github.com/thomazinig/-nest-booking)**  
+Sistema de reservas construído com **NestJS**, **Prisma**, autenticação JWT e testes unitários.  
+> *Foco em arquitetura limpa, boas práticas e escalabilidade.*  
+
+---
+
 ## 🛠️ Tecnologias & Ferramentas  
 
 - **Backend:** Node.js (Express, Sequelize, TypeScript, NestJS)  
@@ -32,24 +50,7 @@ Estou em constante evolução, estudando:
 
 ---
 
-## 📊 Minhas estatísticas no GitHub  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomazinig&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomazinig&layout=compact&theme=tokyonight)  
-
----
-
-## 🌱 Sempre aprendendo...  
-
-Estudo **1 a 2 horas por dia** para evoluir como desenvolvedor e acompanhar as melhores práticas do mercado.  
-
-> 💡 *“Código limpo é código que conta uma história clara.”*  
-
----
-
 📫 **Vamos conectar?**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/guilherme-thomazini-341791180/)  
 [![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:guilherme_thomazini245@hotmail.com)  
-
-
