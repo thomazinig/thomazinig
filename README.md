@@ -25,7 +25,7 @@ Estou em constante evolução, estudando:
 ## 📊 Minhas estatísticas  
 
 <p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api?username=thomazinig&theme=dark" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thomazinig&theme=darkhub" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
