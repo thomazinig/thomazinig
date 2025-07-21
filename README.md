@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Guilherme Thomazini  
 
-<!--
-**thomazinig/thomazinig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
-Here are some ideas to get you started:
+💻 **Desenvolvedor Fullstack | Backend Specialist**  
+🚀 Apaixonado por criar APIs escaláveis, seguras e bem arquitetadas.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente trabalho em uma **fintech/banco**, onde ganho experiência com:  
+✅ Arquitetura de código limpa e escalável  
+✅ Regras de negócio complexas para o setor financeiro  
+✅ **Docker**, infraestrutura com **OpenShift/RedHat**  
+✅ Documentação e APIs bem estruturadas com **TSOA + Swagger**  
+
+Estou em constante evolução, estudando:  
+📚 **NestJS**, **Prisma ORM**, **testes unitários (Jest)** e boas práticas avançadas  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas  
+
+- **Backend:** Node.js (Express, Sequelize, TypeScript, NestJS)  
+- **ORMs:** Sequelize, Prisma  
+- **Infra & DevOps:** Docker, Docker Compose, OpenShift, AWS EC2, Route 53  
+- **Banco de Dados:** PostgreSQL, MySQL  
+- **Documentação & API:** TSOA, Swagger, OpenAPI  
+- **Outros:** Git, CI/CD, boas práticas de arquitetura e testes  
+
+---
+
+## 📊 Minhas estatísticas no GitHub  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomazinig&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomazinig&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌱 Sempre aprendendo...  
+
+Estudo **1 a 2 horas por dia** para evoluir como desenvolvedor e acompanhar as melhores práticas do mercado.  
+
+> 💡 *“Código limpo é código que conta uma história clara.”*  
+
+---
+
+📫 **Vamos conectar?**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/guilherme-thomazini-341791180/)  
+[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:guilherme_thomazini245@hotmail.com)  
+
+
